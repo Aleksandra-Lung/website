@@ -21,6 +21,9 @@ html, body {
 //     margin-left: auto;
 // } 
 @media (min-width: 576px) {
+    h1.ime {
+        font-size: 1rem;
+    }
     .container {
         width: 540px;
     }
