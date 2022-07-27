@@ -45,7 +45,7 @@ const Analog = () => (
 
 </Carousel>
              
-        <h1 className="naslov-product"> ANALOG – PRÄSENZ DER KÜNSTLERINNEN“ – Inglostadt, Germany, 2021  </h1>
+        <h1 className="naslov-product"> Analog – Präsenz der künstlerinnen – Inglostadt, Germany, 2021  </h1>
         <p className="two-columns">Vom 18. September bis 2. Oktober fand eine multidisziplinäre Ausstellung in einem Leerstand in der Fußgängerzone statt. „.analog. – Präsenz der Künstlerinnen“ wurde durchgeführt von dem Künstler an die Schulen e.V.</p>
         
         <div className="container">
