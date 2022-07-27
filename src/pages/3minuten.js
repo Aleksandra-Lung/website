@@ -38,7 +38,7 @@ const Minuten = () => (
                     </div>
                 </div> */}
              
-        <h1 className="naslov-product"> Video action "3 minutes/3Minuten" </h1>
+        <h1 className="naslov-product"> Video action 3 minutes </h1>
         <p className="two-columns">Video action "3 minutes" - The Cultural Report of the City of Ingolstadt presents the video action "3 minutes". This platform in the Corona-Zeit Kunstlerinnen and Künstlern is a platform, as well as their work in 2020.</p>
         <hr class="solid"></hr>
         <p className="two-columns">Das Kulturreferat der Stadt Ingolstadt präsentiert die Video-Aktion „3 Minuten“.  Diese bietet in der Corona-Zeit Künstlerinnen und Künstlern eine Plattform, sich und ihre Arbeit vorzustellen. Angesprochen sind freischaffende Einzelkünstler aus Ingolstadt bzw. mit dem Schwerpunkt ihrer Tätigkeit in Ingolstadt (aus Musik, bildender Kunst, Theater, Literatur).</p>
