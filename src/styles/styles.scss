@@ -12,6 +12,11 @@ html, body {
     font-size: 16px;
 }
 
+h1.ime {
+    @media (min-width: 576px) {
+        font-size: 2rem;
+    }
+    }
 
 // .container {
 //     width: 100%;
@@ -21,9 +26,6 @@ html, body {
 //     margin-left: auto;
 // } 
 @media (min-width: 576px) {
-    h1.ime {
-        font-size: 1rem;
-    }
     .container {
         width: 540px;
     }
