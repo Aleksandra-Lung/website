@@ -41,7 +41,7 @@ const Banner = () => {
             <div class="row">
               <div class="col-sm align-self-center">
                 <h2>Paintings, Art Objects and Installations</h2>
-                <h1>Aleksandra Lung</h1>
+                <h1 class="ime">Aleksandra Lung</h1>
                 <p>Aleksandra Lung has exhibited her arts consistently since 2010. She is an Yugoslavia-born German artist from Ingolstadt.</p>
                 <p>
                   <p></p>
